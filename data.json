@@ -1,0 +1,268 @@
+{
+  "version": 1,
+  "materias": [
+    {
+      "nombre": "Matemáticas",
+      "pdfs": [
+        {
+          "titulo": "Matemáticas Actividad 1",
+          "pdfUrl": "https://tuservidor.com/pdf/matematicas_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 10
+        },
+        {
+          "titulo": "Matemáticas Actividad 2",
+          "pdfUrl": "https://tuservidor.com/pdf/matematicas_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 10
+        },
+        {
+          "titulo": "Matemáticas Actividad 3",
+          "pdfUrl": "https://tuservidor.com/pdf/matematicas_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 10
+        },
+        {
+          "titulo": "Matemáticas Actividad 4",
+          "pdfUrl": "https://tuservidor.com/pdf/matematicas_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 10
+        },
+        {
+          "titulo": "Matemáticas Actividad 5",
+          "pdfUrl": "https://tuservidor.com/pdf/matematicas_act2.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 12
+        }
+      ]
+    },
+    {
+      "nombre": "Comprensión Lectora",
+      "pdfs": [
+        {
+          "titulo": "Comprensión Lectora Actividad 1",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 8
+        },
+        {
+          "titulo": "Comprensión Lectora Actividad 2",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 8
+        },
+        {
+          "titulo": "Comprensión Lectora Actividad 3",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 8
+        },
+        {
+          "titulo": "Comprensión Lectora Actividad 4",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 8
+        }
+      ]
+    },
+    {
+      "nombre": "Español",
+      "pdfs": [
+        {
+          "titulo": "Español Actividad 1",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 12
+        },
+        {
+          "titulo": "Español Actividad 2",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 10
+        },
+        {
+          "titulo": "Español Actividad 3",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 8
+        }
+      ]
+    },
+    {
+      "nombre": "Lectoescritura",
+      "pdfs": [
+        {
+          "titulo": "Lectoescritura 1",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 12
+        },
+        {
+          "titulo": "Lectoescritura 2",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 12
+        },
+        {
+          "titulo": "Lectoescritura 3",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 12
+        }
+      ]
+    },
+    {
+      "nombre": "Grafomotricidad",
+      "pdfs": [
+        {
+          "titulo": "Grafomotricidad 1",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 10
+        },
+        {
+          "titulo": "Grafomotricidad 2",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 6
+        }
+      ]
+    },
+    {
+      "nombre": "Ingles",
+      "pdfs": [
+        {
+          "titulo": "Ingles 1",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 6
+        },
+        {
+          "titulo": "Ingles 2",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 6
+        },
+        {
+          "titulo": "Ingles 3",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 6
+        }
+      ]
+    },
+    {
+      "nombre": "Cuentos Infantiles",
+      "pdfs": [
+        {
+          "titulo": "Cuentos Infantiles 1",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 12
+        },
+        {
+          "titulo": "Cuentos Infantiles 2",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 14
+        }
+      ]
+    },
+    {
+      "nombre": "Fabulas",
+      "pdfs": [
+        {
+          "titulo": "Fabulas 1",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 12
+        },
+        {
+          "titulo": "Fabulas 2",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 14
+        }
+      ]
+    },
+    {
+      "nombre": "Colorear",
+      "pdfs": [
+        {
+          "titulo": "Colorear 1",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 12
+        },
+        {
+          "titulo": "Colorear 2",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 14
+        }
+      ]
+    },
+    {
+      "nombre": "Recortar y Pegar",
+      "pdfs": [
+        {
+          "titulo": "Recortar y Pegar 1",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 12
+        },
+        {
+          "titulo": "Recortar y Pegar 2",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 14
+        }
+      ]
+    },
+    {
+      "nombre": "Actividades Variadas",
+      "pdfs": [
+        {
+          "titulo": "Actividades Variadas 1",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 12
+        },
+        {
+          "titulo": "Actividades Variadas 2",
+          "pdfUrl": "https://tuservidor.com/pdf/lectora_act1.pdf",
+          "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+          "numeroPaginas": 14
+        }
+      ]
+    }
+  ],
+  "actividadesRecientes": [
+    {
+      "titulo": "Reciente Actividad 1",
+      "pdfUrl": "https://tuservidor.com/pdf/reciente1.pdf",
+      "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+      "numeroPaginas": 10
+    },
+    {
+      "titulo": "Reciente Actividad 2",
+      "pdfUrl": "https://tuservidor.com/pdf/reciente2.pdf",
+      "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+      "numeroPaginas": 12
+    }
+  ],
+  "actividadesMasDescargadas": [
+    {
+      "titulo": "Descargada Actividad 1",
+      "pdfUrl": "https://tuservidor.com/pdf/descargada1.pdf",
+      "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+      "numeroPaginas": 15
+    },
+    {
+      "titulo": "Descargada Actividad 2",
+      "pdfUrl": "https://tuservidor.com/pdf/descargada2.pdf",
+      "portadaUrl": "https://tuservidor.com/portadas/default.jpg",
+      "numeroPaginas": 9
+    }
+  ]
+}
